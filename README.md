@@ -56,15 +56,17 @@ This project was built to gain hands-on experience in PCB design and fabrication
 
 # PCB 3D View
 
-![PCB 3D]
+![PCB 3D](images/Front_View.JPG)
+![PCB 3D](images/Side_View.JPG)
+![PCB 3D](images/Back_View.JPG)
 
 ### PCB Layout
 
-![Layout]
+![Layout](images/Layout.JPG)
 
 # Schematic
 
-![Schematic]
+![Schematic](Schematics.JPG)
 
 ---
 
